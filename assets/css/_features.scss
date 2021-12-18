@@ -1,6 +1,6 @@
 .features{
     margin: 7rem 0;
-
+    overflow:hidden;
     &__content{
         display: grid;
         grid-template-columns: repeat(2,1fr);
