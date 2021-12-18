@@ -560,6 +560,7 @@ header .navbar__content .fas.fa-bars {
 
 .features {
   margin: 7rem 0;
+  overflow:hidden;
 }
 
 .features__content {
